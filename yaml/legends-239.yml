@@ -1,0 +1,109 @@
+---
+object: card
+id: d6914ed2-9207-4689-9166-11d2f8949fdd
+oracle_id: 74284bbc-b011-4e16-b8d5-7ddacc77f9d7
+multiverse_ids:
+- 1665
+tcgplayer_id: 3937
+cardmarket_id: 7250
+name: Lady Caleria
+lang: en
+released_at: '1994-06-01'
+uri: https://api.scryfall.com/cards/d6914ed2-9207-4689-9166-11d2f8949fdd
+scryfall_uri: https://scryfall.com/card/leg/239/lady-caleria?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/6/d6914ed2-9207-4689-9166-11d2f8949fdd.jpg?1562861346
+  normal: https://cards.scryfall.io/normal/front/d/6/d6914ed2-9207-4689-9166-11d2f8949fdd.jpg?1562861346
+  large: https://cards.scryfall.io/large/front/d/6/d6914ed2-9207-4689-9166-11d2f8949fdd.jpg?1562861346
+  png: https://cards.scryfall.io/png/front/d/6/d6914ed2-9207-4689-9166-11d2f8949fdd.png?1562861346
+  art_crop: https://cards.scryfall.io/art_crop/front/d/6/d6914ed2-9207-4689-9166-11d2f8949fdd.jpg?1562861346
+  border_crop: https://cards.scryfall.io/border_crop/front/d/6/d6914ed2-9207-4689-9166-11d2f8949fdd.jpg?1562861346
+mana_cost: "{3}{G}{G}{W}{W}"
+cmc: 7.0
+type_line: Legendary Creature — Elf Archer
+oracle_text: "{T}: Lady Caleria deals 3 damage to target attacking or blocking creature."
+power: '3'
+toughness: '6'
+colors:
+- G
+- W
+color_identity:
+- G
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 78c50b4b-b220-455b-a2d5-cee458fa56f3
+set: leg
+set_name: Legends
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d6914ed2-9207-4689-9166-11d2f8949fdd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A74284bbc-b011-4e16-b8d5-7ddacc77f9d7&unique=prints
+collector_number: '239'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Bryon Wackwitz
+artist_ids:
+- c99a114b-c679-47df-a6e9-4f9d3ad5b114
+illustration_id: 12ff2a72-7de2-44cc-827c-7b9e24fd9490
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20665
+prices:
+  usd: '36.02'
+  usd_foil: 
+  usd_etched: 
+  eur: '24.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1665
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lady+Caleria&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lady+Caleria&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lady+Caleria
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3937?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lady+Caleria&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lady+Caleria&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

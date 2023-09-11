@@ -1,0 +1,109 @@
+---
+object: card
+id: eda7177f-1354-4008-aaaa-2c8b823ed5e9
+oracle_id: 73648693-c67f-454b-83e2-1d1787437a2a
+multiverse_ids:
+- 1462
+tcgplayer_id: 4054
+cardmarket_id: 7006
+name: Touch of Darkness
+lang: en
+released_at: '1994-06-01'
+uri: https://api.scryfall.com/cards/eda7177f-1354-4008-aaaa-2c8b823ed5e9
+scryfall_uri: https://scryfall.com/card/leg/122/touch-of-darkness?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/d/eda7177f-1354-4008-aaaa-2c8b823ed5e9.jpg?1587858385
+  normal: https://cards.scryfall.io/normal/front/e/d/eda7177f-1354-4008-aaaa-2c8b823ed5e9.jpg?1587858385
+  large: https://cards.scryfall.io/large/front/e/d/eda7177f-1354-4008-aaaa-2c8b823ed5e9.jpg?1587858385
+  png: https://cards.scryfall.io/png/front/e/d/eda7177f-1354-4008-aaaa-2c8b823ed5e9.png?1587858385
+  art_crop: https://cards.scryfall.io/art_crop/front/e/d/eda7177f-1354-4008-aaaa-2c8b823ed5e9.jpg?1587858385
+  border_crop: https://cards.scryfall.io/border_crop/front/e/d/eda7177f-1354-4008-aaaa-2c8b823ed5e9.jpg?1587858385
+mana_cost: "{B}"
+cmc: 1.0
+type_line: Instant
+oracle_text: One or more target creatures become black until end of turn.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 78c50b4b-b220-455b-a2d5-cee458fa56f3
+set: leg
+set_name: Legends
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/eda7177f-1354-4008-aaaa-2c8b823ed5e9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A73648693-c67f-454b-83e2-1d1787437a2a&unique=prints
+collector_number: '122'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Black spirits and white, red spirits and gray,/
+  Mingle, mingle, mingle, you that mingle may."
+  —Thomas Middleton, The Witch
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Pete Venters
+artist_ids:
+- d54c4a1a-c0c5-4834-84db-125d341f3ad8
+illustration_id: e14f0c39-770b-4ed5-a3ca-0cc31698e2bc
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13109
+prices:
+  usd: '23.12'
+  usd_foil: 
+  usd_etched: 
+  eur: '9.25'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1462
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Touch+of+Darkness&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Touch+of+Darkness&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Touch+of+Darkness
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/4054?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Touch+of+Darkness&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Touch+of+Darkness&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

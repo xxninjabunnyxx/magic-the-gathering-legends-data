@@ -1,0 +1,112 @@
+---
+object: card
+id: e5c66c61-aadf-433b-9958-fc9b44b327b9
+oracle_id: 48b9c510-03ed-41cb-8c17-16110d447490
+multiverse_ids:
+- 1677
+tcgplayer_id: 3990
+cardmarket_id: 7263
+name: Ramirez DePietro
+lang: en
+released_at: '1994-06-01'
+uri: https://api.scryfall.com/cards/e5c66c61-aadf-433b-9958-fc9b44b327b9
+scryfall_uri: https://scryfall.com/card/leg/251/ramirez-depietro?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/5/e5c66c61-aadf-433b-9958-fc9b44b327b9.jpg?1562861374
+  normal: https://cards.scryfall.io/normal/front/e/5/e5c66c61-aadf-433b-9958-fc9b44b327b9.jpg?1562861374
+  large: https://cards.scryfall.io/large/front/e/5/e5c66c61-aadf-433b-9958-fc9b44b327b9.jpg?1562861374
+  png: https://cards.scryfall.io/png/front/e/5/e5c66c61-aadf-433b-9958-fc9b44b327b9.png?1562861374
+  art_crop: https://cards.scryfall.io/art_crop/front/e/5/e5c66c61-aadf-433b-9958-fc9b44b327b9.jpg?1562861374
+  border_crop: https://cards.scryfall.io/border_crop/front/e/5/e5c66c61-aadf-433b-9958-fc9b44b327b9.jpg?1562861374
+mana_cost: "{3}{U}{B}{B}"
+cmc: 6.0
+type_line: Legendary Creature — Human Pirate
+oracle_text: First strike
+power: '4'
+toughness: '3'
+colors:
+- B
+- U
+color_identity:
+- B
+- U
+keywords:
+- First strike
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 78c50b4b-b220-455b-a2d5-cee458fa56f3
+set: leg
+set_name: Legends
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e5c66c61-aadf-433b-9958-fc9b44b327b9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48b9c510-03ed-41cb-8c17-16110d447490&unique=prints
+collector_number: '251'
+digital: false
+rarity: uncommon
+flavor_text: Ramirez DePietro is a most flamboyant pirate. Be careful not to believe
+  his tall tales, especially when you ask his age.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Phil Foglio
+artist_ids:
+- 3bfc0fd7-f6ce-4c3f-a755-aaafc84ac704
+illustration_id: 52ccc74d-1c47-43bf-9274-811e453e2b60
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20375
+prices:
+  usd: '5.87'
+  usd_foil: 
+  usd_etched: 
+  eur: '8.49'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1677
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ramirez+DePietro&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ramirez+DePietro&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ramirez+DePietro
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3990?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ramirez+DePietro&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ramirez+DePietro&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

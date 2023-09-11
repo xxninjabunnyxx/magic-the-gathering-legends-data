@@ -1,0 +1,109 @@
+---
+object: card
+id: 31d2422a-bb7d-4cdd-9aac-e5a936a4be3b
+oracle_id: 59119143-c0fa-49dd-adf0-e2fd3029c48b
+multiverse_ids:
+- 1701
+tcgplayer_id: 3925
+cardmarket_id: 7219
+name: Karakas
+lang: en
+released_at: '1994-06-01'
+uri: https://api.scryfall.com/cards/31d2422a-bb7d-4cdd-9aac-e5a936a4be3b
+scryfall_uri: https://scryfall.com/card/leg/303/karakas?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/1/31d2422a-bb7d-4cdd-9aac-e5a936a4be3b.jpg?1562858252
+  normal: https://cards.scryfall.io/normal/front/3/1/31d2422a-bb7d-4cdd-9aac-e5a936a4be3b.jpg?1562858252
+  large: https://cards.scryfall.io/large/front/3/1/31d2422a-bb7d-4cdd-9aac-e5a936a4be3b.jpg?1562858252
+  png: https://cards.scryfall.io/png/front/3/1/31d2422a-bb7d-4cdd-9aac-e5a936a4be3b.png?1562858252
+  art_crop: https://cards.scryfall.io/art_crop/front/3/1/31d2422a-bb7d-4cdd-9aac-e5a936a4be3b.jpg?1562858252
+  border_crop: https://cards.scryfall.io/border_crop/front/3/1/31d2422a-bb7d-4cdd-9aac-e5a936a4be3b.jpg?1562858252
+mana_cost: ''
+cmc: 0.0
+type_line: Legendary Land
+oracle_text: |-
+  {T}: Add {W}.
+  {T}: Return target legendary creature to its owner's hand.
+colors: []
+color_identity:
+- W
+keywords: []
+produced_mana:
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: banned
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: legal
+  premodern: not_legal
+  predh: banned
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 78c50b4b-b220-455b-a2d5-cee458fa56f3
+set: leg
+set_name: Legends
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/31d2422a-bb7d-4cdd-9aac-e5a936a4be3b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A59119143-c0fa-49dd-adf0-e2fd3029c48b&unique=prints
+collector_number: '303'
+digital: false
+rarity: uncommon
+flavor_text: '"To make a prairie it takes a clover and one bee,/ One clover, and a
+  bee,/ And revery." —Emily Dickinson'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nicola Leonard
+artist_ids:
+- 3de0bcf5-44b7-4c1e-9040-04c5396e79b0
+illustration_id: ec3beba6-7563-4e17-8205-448482609459
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '66.25'
+  usd_foil: 
+  usd_etched: 
+  eur: '79.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1701
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Karakas&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Karakas&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Karakas
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3925?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Karakas&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Karakas&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

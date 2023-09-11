@@ -1,0 +1,111 @@
+---
+object: card
+id: 5ef99f07-c987-451a-b18a-2719eea654cd
+oracle_id: f1ae89ff-b23b-44b2-a30c-6f2ae3216189
+multiverse_ids:
+- 1628
+tcgplayer_id: 3972
+cardmarket_id: 7173
+name: Petra Sphinx
+lang: en
+released_at: '1994-06-01'
+uri: https://api.scryfall.com/cards/5ef99f07-c987-451a-b18a-2719eea654cd
+scryfall_uri: https://scryfall.com/card/leg/30/petra-sphinx?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/e/5ef99f07-c987-451a-b18a-2719eea654cd.jpg?1562859187
+  normal: https://cards.scryfall.io/normal/front/5/e/5ef99f07-c987-451a-b18a-2719eea654cd.jpg?1562859187
+  large: https://cards.scryfall.io/large/front/5/e/5ef99f07-c987-451a-b18a-2719eea654cd.jpg?1562859187
+  png: https://cards.scryfall.io/png/front/5/e/5ef99f07-c987-451a-b18a-2719eea654cd.png?1562859187
+  art_crop: https://cards.scryfall.io/art_crop/front/5/e/5ef99f07-c987-451a-b18a-2719eea654cd.jpg?1562859187
+  border_crop: https://cards.scryfall.io/border_crop/front/5/e/5ef99f07-c987-451a-b18a-2719eea654cd.jpg?1562859187
+mana_cost: "{2}{W}{W}{W}"
+cmc: 5.0
+type_line: Creature — Sphinx
+oracle_text: "{T}: Target player chooses a card name, then reveals the top card of
+  their library. If that card has the chosen name, that player puts it into their
+  hand. If it doesn't, the player puts it into their graveyard."
+power: '3'
+toughness: '4'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 78c50b4b-b220-455b-a2d5-cee458fa56f3
+set: leg
+set_name: Legends
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5ef99f07-c987-451a-b18a-2719eea654cd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af1ae89ff-b23b-44b2-a30c-6f2ae3216189&unique=prints
+collector_number: '30'
+digital: false
+rarity: rare
+flavor_text: What walks on four legs in the morning, two legs in the afternoon, and
+  three legs in the evening?
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Sandra Everingham
+artist_ids:
+- 8a8ac2c8-84c9-4274-9960-a19a97f0bde5
+illustration_id: 781d2ae5-d022-4578-8fed-513e6985d40b
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23110
+prices:
+  usd: '15.74'
+  usd_foil: 
+  usd_etched: 
+  eur: '16.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1628
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Petra+Sphinx&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Petra+Sphinx&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Petra+Sphinx
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3972?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Petra+Sphinx&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Petra+Sphinx&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

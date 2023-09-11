@@ -1,0 +1,111 @@
+---
+object: card
+id: 304f9d39-3ea2-4274-b23e-e4eaabbc1c4b
+oracle_id: 41026872-3c7b-40c7-8d0b-9d2f9b6c3e91
+multiverse_ids:
+- 1674
+tcgplayer_id: 3970
+cardmarket_id: 7260
+name: Pavel Maliki
+lang: en
+released_at: '1994-06-01'
+uri: https://api.scryfall.com/cards/304f9d39-3ea2-4274-b23e-e4eaabbc1c4b
+scryfall_uri: https://scryfall.com/card/leg/248/pavel-maliki?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/0/304f9d39-3ea2-4274-b23e-e4eaabbc1c4b.jpg?1562858246
+  normal: https://cards.scryfall.io/normal/front/3/0/304f9d39-3ea2-4274-b23e-e4eaabbc1c4b.jpg?1562858246
+  large: https://cards.scryfall.io/large/front/3/0/304f9d39-3ea2-4274-b23e-e4eaabbc1c4b.jpg?1562858246
+  png: https://cards.scryfall.io/png/front/3/0/304f9d39-3ea2-4274-b23e-e4eaabbc1c4b.png?1562858246
+  art_crop: https://cards.scryfall.io/art_crop/front/3/0/304f9d39-3ea2-4274-b23e-e4eaabbc1c4b.jpg?1562858246
+  border_crop: https://cards.scryfall.io/border_crop/front/3/0/304f9d39-3ea2-4274-b23e-e4eaabbc1c4b.jpg?1562858246
+mana_cost: "{4}{B}{R}"
+cmc: 6.0
+type_line: Legendary Creature — Human
+oracle_text: "{B}{R}: Pavel Maliki gets +1/+0 until end of turn."
+power: '5'
+toughness: '3'
+colors:
+- B
+- R
+color_identity:
+- B
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 78c50b4b-b220-455b-a2d5-cee458fa56f3
+set: leg
+set_name: Legends
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/304f9d39-3ea2-4274-b23e-e4eaabbc1c4b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A41026872-3c7b-40c7-8d0b-9d2f9b6c3e91&unique=prints
+collector_number: '248'
+digital: false
+rarity: uncommon
+flavor_text: 'We all know the legend: Pavel wanders the realms, helping those in greatest
+  need. But is this a measure of his generosity, or of his obligation to atone?'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Andi Rusu
+artist_ids:
+- 2fd69990-7ba4-4c0f-95ef-c7b748570a12
+illustration_id: e5c660c5-62a7-4ab3-9252-c541c0a12ec9
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 24308
+prices:
+  usd: '3.91'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1674
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pavel+Maliki&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pavel+Maliki&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Pavel+Maliki
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3970?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pavel+Maliki&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pavel+Maliki&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

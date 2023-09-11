@@ -1,0 +1,105 @@
+---
+object: card
+id: c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b
+oracle_id: 0fd1ddc3-65cc-489f-81b9-6c144843fc67
+multiverse_ids:
+- 1411
+tcgplayer_id: 3945
+cardmarket_id: 7200
+name: Life Matrix
+lang: en
+released_at: '1994-06-01'
+uri: https://api.scryfall.com/cards/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b
+scryfall_uri: https://scryfall.com/card/leg/284/life-matrix?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.jpg?1562860877
+  normal: https://cards.scryfall.io/normal/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.jpg?1562860877
+  large: https://cards.scryfall.io/large/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.jpg?1562860877
+  png: https://cards.scryfall.io/png/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.png?1562860877
+  art_crop: https://cards.scryfall.io/art_crop/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.jpg?1562860877
+  border_crop: https://cards.scryfall.io/border_crop/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.jpg?1562860877
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact
+oracle_text: '{4}, {T}: Put a matrix counter on target creature and that creature
+  gains "Remove a matrix counter from this creature: Regenerate this creature." Activate
+  only during your upkeep.'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 78c50b4b-b220-455b-a2d5-cee458fa56f3
+set: leg
+set_name: Legends
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/leg?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0fd1ddc3-65cc-489f-81b9-6c144843fc67&unique=prints
+collector_number: '284'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Amy Weber
+artist_ids:
+- c1160787-e72e-4f89-b361-c6864f7a4e3a
+illustration_id: b3501a6c-dba0-4b1e-9576-02ad144ce6df
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23735
+prices:
+  usd: '42.64'
+  usd_foil: 
+  usd_etched: 
+  eur: '44.89'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1411
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Life+Matrix&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Life+Matrix&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Life+Matrix
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3945?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Life+Matrix&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Life+Matrix&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
